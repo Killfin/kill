@@ -1,0 +1,45 @@
+
+.ft {
+	color: aqua;
+}
+
+.kl {
+width: 90;
+height: 90;
+
+}
+.vt {
+	color:firebrick;
+
+
+}
+.list>li {
+color: blue;
+
+}
+
+.button {
+	background-color: #FF4500;
+	border: none;
+	color: white;
+	padding: 20px 34px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 4px 2px;
+	cursor: pointer;
+	}
+
+	.lik {
+		background-color:crimson;
+		border: none;
+		color: white;
+		padding: 20px 34px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 20px;
+		margin: 4px 2px;
+		cursor: pointer;
+		}
